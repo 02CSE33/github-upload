@@ -1,2 +1,3 @@
 "This is FileB" 
 FileB|Version 1.0 - Azure Repos | Branch - Feature
+FileB|Version 2.0 - Merge
