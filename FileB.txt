@@ -1,1 +1,2 @@
 "This is FileB" 
+FileB|Version 1.0 - Azure Repos | Branch - Feature
