@@ -2,3 +2,4 @@
 Version 1.0 - Azure Repos
 Version 2.0 - Master Branch
 Version 3.0 - Pull
+This will not be considered as part of GIT
